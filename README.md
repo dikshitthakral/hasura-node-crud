@@ -1,4 +1,4 @@
-## Hasura-User-CRUD API
+# Hasura-User-CRUD API
 
 Simple CRUD NodeJS Backend (User Registration, Login, Deletion - name, Username and Password as inputs)
 
